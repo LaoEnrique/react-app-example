@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-To get images for this project you need create account in unsplash developer an create new application 
+To get images for this project you need create account in unsplash developer an create new application and change credentials in api service
 
 ## Available Scripts
 
@@ -70,10 +70,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# react-app-example
 
->>>>>>> 574e9daa834a940a3997e9f264011b648814c3b8
-=======
-# react-app-example
->>>>>>> 1f0e6cf285a2df4dd6426bdac51ba141cd42a4aa
